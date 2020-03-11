@@ -64,6 +64,12 @@ English page is [here](./index_en.html).
 
 - [ポスター発表・査読なし] 吉田 道隆, 長原 一, 鳥居 秋彦, 奥富 正敏, 谷口 倫一郎, "圧縮センシング動画のデコーディング手法の検討", 第20回画像の認識・理解シンポジウム(MIRU2017), 広島, 2017年8月
 
+
+## その他
+- [招待講演] 第18回情報科学技術フォーラム トップコンファレンスセッション:  
+Yoshida Michitaka, Torii Akihiko, Okutomi Masatoshi, Endo Kenta, Sugiyama Yukinobu, Taniguchi Rin-Ichiro, Nagahara Hajime, "Joint optimization for compressive video sensing and reconstruction under hardware constraints", Proceedings of the European Conference on Computer Vision (ECCV2018), Munich, Germany
+[FIT 2019](https://www.ipsj.or.jp/event/fit/fit2019/FIT2019program_web/data/html/event/eventTCS3.html)
+
 ---
 
 # 研究
