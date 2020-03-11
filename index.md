@@ -4,16 +4,17 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+English page is [here](./index_en.html).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# News & Topics
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+- ICCP2020に論文が採択されました．
+- IEEE Transactions on Computational Imagingに論文が採択されました．
+- 第18回情報科学技術フォーラムのトップコンファレンスセッションで招待講演を行いました．
 
+[More](./news)
 ## Header 2
 
 > This is a blockquote following a header.
