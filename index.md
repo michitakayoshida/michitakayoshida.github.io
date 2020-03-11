@@ -37,7 +37,7 @@ English page is [here](./index_en.html).
 # 発表文献
 ## 論文誌
 - [査読あり]  
-Michitaka Yoshida, Toshiki Sonoda, Hajime Nagahara, Kenta Endo, Yukinobu Sugiyama, Rin-Ichiro Taniguchi,  
+Michitaka Yoshida, Toshiki Sonoda, Hajime Nagahara, Kenta Endo, Yukinobu Sugiyama, Rin-ichiro Taniguchi,  
 "High-Speed Imaging Using CMOS Image Sensor With Quasi Pixel-Wise Exposure",  
 IEEE Transactions on Computational Imaging, Vol.6, pp.463-476, 2019  
 [paper](https://ieeexplore.ieee.org/document/8918110) [bibtex](/bib/tci2019.bib)
