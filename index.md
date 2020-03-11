@@ -2,7 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 English page is [here](./index_en.html).
 
@@ -15,11 +14,12 @@ English page is [here](./index_en.html).
 - 第18回情報科学技術フォーラムのトップコンファレンスセッションで招待講演を行いました．
 
 [More](./news)
-## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+# プロフィール
+## 名前
+- 吉田　道隆
+
+
 
 ### Header 3
 
