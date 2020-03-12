@@ -113,7 +113,6 @@ Proceedings of the European Conference on Computer Vision (ECCV2018), Munich, Ge
 ## その他
 - [招待講演]  
 第18回情報科学技術フォーラム トップコンファレンスセッション :  
-Yoshida Michitaka, Torii Akihiko, Okutomi Masatoshi, Endo Kenta, Sugiyama Yukinobu, Taniguchi Rin-ichiro, Nagahara Hajime,  
 "Joint optimization for compressive video sensing and reconstruction under hardware constraints",  
 [FIT 2019](https://www.ipsj.or.jp/event/fit/fit2019/FIT2019program_web/data/html/event/eventTCS3.html)
 
