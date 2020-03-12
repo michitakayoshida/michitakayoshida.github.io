@@ -84,7 +84,8 @@ Proceedings of the European Conference on Computer Vision (ECCV2018), Munich, Ge
 第22回画像の認識・理解シンポジウム(MIRU2019), 大阪, 2019年7月
 
 - [Non-peer-reviewed, Poster]  
-大河原 忠, 吉田 道隆, 長原 一, 八木　康史, "符号化露光画像を用いた人物の行動認識",  
+大河原 忠, 吉田 道隆, 長原 一, 八木　康史,  
+"符号化露光画像を用いた人物の行動認識",  
 第22回画像の認識・理解シンポジウム(MIRU2019), 大阪, 2019年7月
 
 - [Non-peer-reviewed, Oral]  
