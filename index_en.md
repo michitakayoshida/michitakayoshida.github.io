@@ -112,7 +112,7 @@ Proceedings of the European Conference on Computer Vision (ECCV2018), Munich, Ge
 ## Others
 - [Invited talk]  
 Forum on Information Technology (FIT2019) :  
-Yoshida Michitaka, Torii Akihiko, Okutomi Masatoshi, Endo Kenta, Sugiyama Yukinobu, Taniguchi Rin-Ichiro, Nagahara Hajime,  
+Yoshida Michitaka, Torii Akihiko, Okutomi Masatoshi, Endo Kenta, Sugiyama Yukinobu, Taniguchi Rin-ichiro, Nagahara Hajime,  
 "Joint optimization for compressive video sensing and reconstruction under hardware constraints",  
 Proceedings of the European Conference on Computer Vision (ECCV2018), Munich, Germany  
 [FIT 2019](https://www.ipsj.or.jp/event/fit/fit2019/FIT2019program_web/data/html/event/eventTCS3.html)
