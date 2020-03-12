@@ -67,7 +67,7 @@ Michitaka Yoshida, Akihiko Torii, Masatoshi Okutomi, Kenta Endo, Yukinobu Sugiya
 Proceedings of the 4th International Workshop on Image Sensors and Imaging Systems (IWISS2018), Tokyo, Japan, 2018.11
 
 - [Peer-reviewed, Poster]  
-Yoshida Michitaka, Torii Akihiko, Okutomi Masatoshi, Endo Kenta, Sugiyama Yukinobu, Taniguchi Rin-Ichiro, Nagahara Hajime,  
+Yoshida Michitaka, Torii Akihiko, Okutomi Masatoshi, Endo Kenta, Sugiyama Yukinobu, Taniguchi Rin-ichiro, Nagahara Hajime,  
 "Joint optimization for compressive video sensing and reconstruction under hardware constraints",  
 Proceedings of the European Conference on Computer Vision (ECCV2018), Munich, Germany, pp.634-649, 2018.09  
 [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Michitaka_Yoshida_Joint_optimization_for_ECCV_2018_paper.pdf) [bibtex](/bib/eccv2018.bib)
