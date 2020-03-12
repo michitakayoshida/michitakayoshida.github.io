@@ -31,7 +31,7 @@ layout: default
 - Ph.D Course
 
 ### Biographies
-- Michitaka Yoshida received his B.E. and M.E. degrees from Kyushu University, Fukuoka, Japan, in 2017 and 2019.He is currently pursuing his Ph.D. degree in Graduate school of Information Science and Technology, Osaka University, Suita, Japan. His research interests are computational photography and computer vision.
+- Michitaka Yoshida received his B.E. and M.E. degrees from Kyushu University, Fukuoka, Japan, in 2017 and 2019. He is currently pursuing his Ph.D. degree in Graduate school of Information Science and Technology, Osaka University, Suita, Japan. His research interests are computational photography and computer vision.
 
 
 ---
