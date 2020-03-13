@@ -126,4 +126,7 @@ Proceedings of the European Conference on Computer Vision (ECCV2018), Munich, Ge
 ---
 
 # Research
-*Coming soon...*
+## Compressive video sensing
+
+![Compressive video sensing](/assets/img/cvs.png)
+Compressive video sensing is a task to encode multiple sub-frames into a single frame with controlled sensor exposures and to reconstruct the sub-frames from the single compressed frame. It is known that spatially and temporally random exposures give the most balanced compression in terms of signal recovery. However, fabricating the sensors that can arbitrary expose on each individual pixel is infeasible. It is, therefore, necessary to design the exposure pattern while taking into account the constraints induced by the hardware. In this work, we propose a method for jointly optimizing, under the hardware constraints, the exposure patterns of compressive sensing and the reconstruction framework.
