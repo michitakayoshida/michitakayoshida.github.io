@@ -35,7 +35,7 @@ English page is [here](./index_en.html).
 - 2019年3月 九州大学 大学院 システム情報科学府 情報知能工学専攻 修士課程 修了
 - 2019年4月 大阪大学 大学院 情報科学研究科 コンピュータサイエンス専攻 博士後期課程 入学
 
-###連絡先
+### 連絡先
 - E-mail : yoshida[at]am.sanken.osaka-u.ac.jp
 
 ---
