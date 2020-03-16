@@ -42,6 +42,7 @@ English page is [here](./index_en.html).
 
 # 発表文献
 [Google Scholar](https://scholar.google.com/citations?user=4YBUtSEAAAAJ)
+[ORCID](https://orcid.org/0000-0002-2227-6345)
 ## 論文誌
 - [査読あり]  
 Michitaka Yoshida, Toshiki Sonoda, Hajime Nagahara, Kenta Endo, Yukinobu Sugiyama, Rin-ichiro Taniguchi,  
