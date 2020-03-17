@@ -49,7 +49,7 @@ English page is [here](./index_en.html).
 Michitaka Yoshida, Toshiki Sonoda, Hajime Nagahara, Kenta Endo, Yukinobu Sugiyama, Rin-ichiro Taniguchi,  
 "High-Speed Imaging Using CMOS Image Sensor With Quasi Pixel-Wise Exposure",  
 IEEE Transactions on Computational Imaging, Vol.6, pp.463-476, 2019  
-[paper](https://ieeexplore.ieee.org/document/8918110) [bibtex](/bib/tci2019.bib)
+[paper](https://doi.org/10.1109/TCI.2019.2956885) [bibtex](/bib/tci2019.bib)
 
 ## 国際会議
 - [口頭発表・査読あり]  
