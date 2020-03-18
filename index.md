@@ -57,10 +57,12 @@ Tadashi Okawara, Michitaka Yoshida, Hajime Nagahara, Yasushi Yagi,
 "Action Recognition from a Single Coded Image",  
 Proceedings of the International Conference on Computational Photography (ICCP2020), Saint Louis, U.S.A, 2020.04
 
+<!--
 - [ポスター発表・査読なし]  
 Michitaka Yoshida, Akihiko Torii, Masatoshi Okutomi, Kenta Endo, Yukinobu Sugiyama, Rin-ichiro Taniguchi, Hajime Nagahara,  
 "Joint optimization for compressive color video sensing and reconstruction under hardware constraints",  
 Proceedings of the International Conference on Computational Photography (ICCP2020), Saint Louis, U.S.A, 2020.04
+-->
 
 - [デモンストレーション発表・査読なし]  
 Michitaka Yoshida, Akihiko Torii, Masatoshi Okutomi, Kenta Endo, Yukinobu Sugiyama, Rin-ichiro Taniguchi, Hajime Nagahara,  
