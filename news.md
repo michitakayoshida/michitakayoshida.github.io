@@ -4,6 +4,10 @@ layout: default
 
 # News & Topics
 
+- ICCP2020にて口頭発表を行いました．(2020/4/26)  
+[ICCP2020 Paper](https://iccp2020.engr.wustl.edu/) [動画 No.85](https://www.youtube.com/watch?v=yDBU-3Ag3bQ)
+- ICCP2020にてポスター発表を行いました．(2020/4/24)  
+[ICCP2020 Poster](https://iccp2020.engr.wustl.edu/) [動画](https://www.youtube.com/watch?v=6WHq7_sICAA&t=1s)
 - ICCP2020に論文が採択されました．(2020/2/21)  
 [ICCP2020](https://iccp2020.engr.wustl.edu/)
 - IEEE Transactions on Computational Imagingに論文が採択されました．(2019/11/29)  
