@@ -9,7 +9,9 @@ layout: default
 
 # News & Topics
 
-- I won the Presentation Award in MIRU2020 Wakate Program. (2020/8/1)
+- We received the MIRU Nagao Award at MIRU2021.
+[MIRU2021](http://cvim.ipsj.or.jp/MIRU2021/)
+- We received the Presentation Award in MIRU2020 Wakate Program. (2020/8/1)
 [MIRU2020 Wakate Program](https://sites.google.com/view/miru2020/%E8%8B%A5%E6%89%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/%E4%BC%81%E7%94%BB%E5%86%85%E5%AE%B9?authuser=0)
 - We gave a oral presentation at ICCP2020.(2020/4/26)  
 [ICCP2020 Paper](https://iccp2020.engr.wustl.edu/) [Video No.85](https://www.youtube.com/watch?v=yDBU-3Ag3bQ)
@@ -22,6 +24,7 @@ layout: default
 
 
 [More](./news_en)
+
 
 ---
 
@@ -85,6 +88,16 @@ Proceedings of the European Conference on Computer Vision (ECCV2018), Munich, Ge
 [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Michitaka_Yoshida_Joint_optimization_for_ECCV_2018_paper.pdf) [bibtex](/bib/eccv2018.bib)
 
 ## Domestic Conferences
+-[Peer-reviewed, Oral]
+水野 良哉, 高橋 桂太, 坂井 康平, 都竹 千尋, 藤井 俊彰 , 吉田 道隆, 長原 一,
+"動的光線空間のシングルショット撮影",
+第24回画像の認識・理解シンポジウム(MIRU2021), 名古屋, 2021年7月
+
+- [Non-peer-reviewed, Oral]
+宮崎 袈, 渡邉 晃平, 吉田 道隆, 安富 啓太, 川人 祥二, 長原 一, 香川 景一郎,
+"XY画素アドレスを用いた圧縮ビデオイメージセンサ",
+映情学技報, vol. 45, no. 17, IST2021-34, pp. 17-20, 2021年6月.
+
 - [Non-peer-reviewed, Oral]  
 大河原 忠,吉田 道隆, 長原 一, 八木 康史,  
 "符号化露光画像を用いた人物の行動認識",  
