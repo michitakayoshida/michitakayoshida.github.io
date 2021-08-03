@@ -10,7 +10,7 @@ English page is [here](./index_en.html).
 # News & Topics
 
 - MIRU2021にてMIRU長尾賞を受賞しました．(2021/7/30)
-[MIRU2021](http://cvim.ipsj.or.jp/MIRU2021/)
+[MIRU2021](http://cvim.ipsj.or.jp/MIRU2021/) [表彰](http://cvim.ipsj.or.jp/MIRU2021/award/)
 - MIRU2020若手プログラムにてプレゼンテーション賞を受賞しました．(2020/8/1)
 [MIRU2020若手プログラム](https://sites.google.com/view/miru2020/%E8%8B%A5%E6%89%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/%E4%BC%81%E7%94%BB%E5%86%85%E5%AE%B9?authuser=0)
 - ICCP2020にて口頭発表を行いました．(2020/4/26)  
