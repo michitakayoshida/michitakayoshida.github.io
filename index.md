@@ -9,14 +9,13 @@ English page is [here](./index_en.html).
 
 # News & Topics
 
+- CVPR2022にてポスター発表を行いました．(2022/6/24)  
+[CVPR2022 Poster](https://openaccess.thecvf.com/content/CVPR2022/html/Mizuno_Acquiring_a_Dynamic_Light_Field_Through_a_Single-Shot_Coded_Image_CVPR_2022_paper.html)
 - MIRU2021にてMIRU長尾賞を受賞しました．(2021/7/30)
 [MIRU2021](http://cvim.ipsj.or.jp/MIRU2021/) [表彰](http://cvim.ipsj.or.jp/MIRU2021/award/)
 - MIRU2020若手プログラムにてプレゼンテーション賞を受賞しました．(2020/8/1)
 [MIRU2020若手プログラム](https://sites.google.com/view/miru2020/%E8%8B%A5%E6%89%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/%E4%BC%81%E7%94%BB%E5%86%85%E5%AE%B9?authuser=0)
-- ICCP2020にて口頭発表を行いました．(2020/4/26)  
-[ICCP2020 Paper](https://iccp2020.engr.wustl.edu/) [動画 No.85](https://www.youtube.com/watch?v=yDBU-3Ag3bQ)
-- ICCP2020にてポスター発表を行いました．(2020/4/24)  
-[ICCP2020 Poster](https://iccp2020.engr.wustl.edu/) [動画](https://www.youtube.com/watch?v=6WHq7_sICAA&t=1s)
+
 
 [More](./news)
 
@@ -54,6 +53,11 @@ IEEE Transactions on Computational Imaging, Vol.6, pp.463-476, 2019
 [paper](https://doi.org/10.1109/TCI.2019.2956885) [bibtex](/bib/tci2019.bib)
 
 ## 国際会議
+- [ポスター発表・査読あり]  
+Ryoya Mizuno, Keita Takahashi, Michitaka Yoshida, Chihiro Tsutake, Toshiaki Fujii, Hajime Nagahara,
+"Acquiring a Dynamic Light Field Through a Single-Shot Coded Image",  
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), New Orleans, U.S.A, 2022.06
+
 - [口頭発表・査読あり]  
 Tadashi Okawara, Michitaka Yoshida, Hajime Nagahara, Yasushi Yagi,  
 "Action Recognition from a Single Coded Image",  
