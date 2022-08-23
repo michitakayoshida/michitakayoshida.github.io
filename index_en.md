@@ -49,7 +49,7 @@ layout: default
 ## Journals
 - [Peer-reviewed]  
 Sudhakar Kumawat, Tadashi Okawara, Michitaka Yoshida, Hajime Nagahara, Yasushi Yagi,  
-"High-Speed Imaging Using CMOS Image Sensor With Quasi Pixel-Wise Exposure",  
+"Action Recognition From a Single Coded Image", 
 IEEE Transactions on Computational Imaging, 2022, doi: 10.1109/TPAMI.2022.3196350.  
 [paper](https://ieeexplore.ieee.org/document/9850412) [bibtex](/bib/pami2022.bib)
 
