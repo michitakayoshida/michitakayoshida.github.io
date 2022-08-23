@@ -48,6 +48,12 @@ layout: default
 [ORCID](https://orcid.org/0000-0002-2227-6345)
 ## Journals
 - [Peer-reviewed]  
+Sudhakar Kumawat, Tadashi Okawara, Michitaka Yoshida, Hajime Nagahara, Yasushi Yagi,  
+"High-Speed Imaging Using CMOS Image Sensor With Quasi Pixel-Wise Exposure",  
+IEEE Transactions on Computational Imaging, 2022, doi: 10.1109/TPAMI.2022.3196350.  
+[paper](https://ieeexplore.ieee.org/document/9850412) [bibtex](/bib/pami2022.bib)
+
+- [Peer-reviewed]  
 Michitaka Yoshida, Toshiki Sonoda, Hajime Nagahara, Kenta Endo, Yukinobu Sugiyama, Rin-ichiro Taniguchi,  
 "High-Speed Imaging Using CMOS Image Sensor With Quasi Pixel-Wise Exposure",  
 IEEE Transactions on Computational Imaging, Vol.6, pp.463-476, 2019  
