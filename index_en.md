@@ -49,8 +49,8 @@ layout: default
 ## Journals
 - [Peer-reviewed]  
 Sudhakar Kumawat, Tadashi Okawara, Michitaka Yoshida, Hajime Nagahara, Yasushi Yagi,  
-"Action Recognition From a Single Coded Image", 
-IEEE Transactions on Computational Imaging, 2022, doi: 10.1109/TPAMI.2022.3196350.  
+"Action Recognition From a Single Coded Image",
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022, doi: 10.1109/TPAMI.2022.3196350.  
 [paper](https://ieeexplore.ieee.org/document/9850412) [bibtex](/bib/pami2022.bib)
 
 - [Peer-reviewed]  

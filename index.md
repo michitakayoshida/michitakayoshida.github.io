@@ -49,13 +49,13 @@ English page is [here](./index_en.html).
 - [査読あり]  
 Sudhakar Kumawat, Tadashi Okawara, Michitaka Yoshida, Hajime Nagahara, Yasushi Yagi,  
 "Action Recognition From a Single Coded Image",  
-IEEE Transactions on Computational Imaging, 2022, doi: 10.1109/TPAMI.2022.3196350.  
+IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022, doi: 10.1109/TPAMI.2022.3196350.  
 [paper](https://ieeexplore.ieee.org/document/9850412) [bibtex](/bib/pami2022.bib)
 
 - [査読あり]  
 Michitaka Yoshida, Toshiki Sonoda, Hajime Nagahara, Kenta Endo, Yukinobu Sugiyama, Rin-ichiro Taniguchi,  
 "High-Speed Imaging Using CMOS Image Sensor With Quasi Pixel-Wise Exposure",  
-IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol.6, pp.463-476, 2019  
+IEEE Transactions on Computational Imaging, Vol.6, pp.463-476, 2019  
 [paper](https://doi.org/10.1109/TCI.2019.2956885) [bibtex](/bib/tci2019.bib)
 
 ## 国際会議
