@@ -93,6 +93,12 @@ Proceedings of the European Conference on Computer Vision (ECCV2018), Munich, Ge
 [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Michitaka_Yoshida_Joint_optimization_for_ECCV_2018_paper.pdf) [bibtex](/bib/eccv2018.bib)
 
 ## 国内会議
+- [口頭発表・査読なし]
+加藤睦代, 岩崎昌子, 長原一, 吉田道隆, 末原大幹, 山田悟, 中島悠太, 武村紀子, 中野貴志,
+"機械学習を用いたスパースサンプリングによるデータ処理技術の基礎開発(II)",
+日本物理学会2022年秋季大会, 岡山 2022年9月
+
+
 - [口頭発表・査読あり]
 水野 良哉, 高橋 桂太, 坂井 康平, 都竹 千尋, 藤井 俊彰 , 吉田 道隆, 長原 一,
 "動的光線空間のシングルショット撮影",
@@ -101,7 +107,7 @@ Proceedings of the European Conference on Computer Vision (ECCV2018), Munich, Ge
 - [口頭発表・査読なし]  
 宮崎 袈, 渡邉 晃平, 吉田 道隆, 安富 啓太, 川人 祥二, 長原 一, 香川 景一郎,
 "XY画素アドレスを用いた圧縮ビデオイメージセンサ",
-映情学技報, vol. 45, no. 17, IST2021-34, pp. 17-20, 2021年6月.
+映情学技報, vol. 45, no. 17, IST2021-34, pp. 17-20, 2021年6月
 
 - [口頭発表・査読なし]  
 大河原 忠,吉田 道隆, 長原 一, 八木 康史,  
