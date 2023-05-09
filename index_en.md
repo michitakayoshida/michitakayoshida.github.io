@@ -28,7 +28,7 @@ layout: default
 - Michitaka Yoshida
 
 ### Organization
-- JSPS Research Fellowship for Young Scientists
+- JSPS Research Fellowship for Young Scientists, Shizuoka University
 
 
 ### Biographies
