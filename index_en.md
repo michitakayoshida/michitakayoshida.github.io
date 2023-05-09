@@ -27,7 +27,7 @@ layout: default
 ### Name
 - Michitaka Yoshida
 
-### Organization Name
+### Organization
 - JSPS Research Fellowship for Young Scientists
 
 
@@ -35,7 +35,7 @@ layout: default
 - Michitaka Yoshida received his B.E. and M.E. degrees from Kyushu University, Fukuoka, Japan, in 2017 and 2019, and Ph.D. degree from Graduate school of Information Science and Technology, Osaka University, Suita, Japan in 2023. He currently works at Shizuoka University as a research fellow (PD) from the Japan Society for the Promotion of Science. His research interests are computational photography and computer vision.
 
 ### Contact
-- E-mail : yoshida[at]am.sanken.osaka-u.ac.jp
+- E-mail : yoshida.michitaka[at]shizuoka.ac.jp
 
 
 ---
