@@ -4,6 +4,8 @@ layout: default
 
 # News & Topics
 
+- Our paper for Sensors was accepted. (2023/8/30)  
+[paper](https://doi.org/10.3390/s23177535) [bibtex](/bib/sensors-v23-i17_20230831.bib)
 - We gave a poster presentation at CVPR2022.(2022/6/24)  
 [CVPR2022 Poster](https://openaccess.thecvf.com/content/CVPR2022/html/Mizuno_Acquiring_a_Dynamic_Light_Field_Through_a_Single-Shot_Coded_Image_CVPR_2022_paper.html)
 - We received the MIRU Nagao Award (first prize) at MIRU2021.

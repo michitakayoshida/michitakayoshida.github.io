@@ -9,12 +9,13 @@ English page is [here](./index_en.html).
 
 # News & Topics
 
+- Sensorsに論文が採択されました．(2023/8/30)  
+[paper](https://doi.org/10.3390/s23177535) [bibtex](/bib/sensors-v23-i17_20230831.bib)
 - CVPR2022にてポスター発表を行いました．(2022/6/24)  
 [CVPR2022 Poster](https://openaccess.thecvf.com/content/CVPR2022/html/Mizuno_Acquiring_a_Dynamic_Light_Field_Through_a_Single-Shot_Coded_Image_CVPR_2022_paper.html)
 - MIRU2021にてMIRU長尾賞を受賞しました．(2021/7/30)
 [MIRU2021](http://cvim.ipsj.or.jp/MIRU2021/) [表彰](http://cvim.ipsj.or.jp/MIRU2021/award/)
-- MIRU2020若手プログラムにてプレゼンテーション賞を受賞しました．(2020/8/1)
-[MIRU2020若手プログラム](https://sites.google.com/view/miru2020/%E8%8B%A5%E6%89%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0/%E4%BC%81%E7%94%BB%E5%86%85%E5%AE%B9?authuser=0)
+
 
 
 [More](./news)
@@ -47,6 +48,12 @@ English page is [here](./index_en.html).
 
 [ORCID](https://orcid.org/0000-0002-2227-6345)
 ## 論文誌
+- [査読あり]  
+Yoshida, Michitaka, Akihiko Torii, Masatoshi Okutomi, Rin-ichiro Taniguchi, Hajime Nagahara, and Yasushi Yagi,  
+"Deep Sensing for Compressive Video Acquisition",  
+Sensors 2023, 23, no. 17: 7535.
+[paper](https://doi.org/10.3390/s23177535) [bibtex](/bib/sensors-v23-i17_20230831.bib)
+
 - [査読あり]  
 Sudhakar Kumawat, Tadashi Okawara, Michitaka Yoshida, Hajime Nagahara, Yasushi Yagi,  
 "Action Recognition From a Single Coded Image",  
