@@ -159,8 +159,8 @@ Proceedings of the European Conference on Computer Vision (ECCV2018), Munich, Ge
 "Joint optimization for compressive video sensing and reconstruction under hardware constraints",  
 [FIT 2019](https://www.ipsj.or.jp/event/fit/fit2019/FIT2019program_web/data/html/event/eventTCS3.html)
 
-- [特許・出願中]  
-特願2019-001491号，「動画像処理方法及び動画像処理装置」,長原 一, 大河原 忠, 吉田 道隆
+- [特許]  
+特開2020-113829，「動画像処理方法及び動画像処理装置」,長原 一, 大河原 忠, 吉田 道隆
 
 ---
 
