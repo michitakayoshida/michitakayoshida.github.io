@@ -49,6 +49,12 @@ English page is [here](./index_en.html).
 [ORCID](https://orcid.org/0000-0002-2227-6345)
 ## 論文誌
 - [査読あり]  
+Ryoya Mizuno, Keita Takahashi, Michitaka Yoshida, Chihiro Tsutake, Toshiaki Fujii, and Hajime Nagahara,  
+"Compressive Acquisition of Light Field Video Using Aperture-Exposure-Coded Camera",  
+ITE Transactions on Media Technology and Applications 2024, Vol.12, Issue 1, pp.22-35.
+[paper](https://doi.org/10.3169/mta.12.22) [bibtex](/bib/mta_12_22_en.bib)
+
+- [査読あり]  
 Yoshida, Michitaka, Akihiko Torii, Masatoshi Okutomi, Rin-ichiro Taniguchi, Hajime Nagahara, and Yasushi Yagi,  
 "Deep Sensing for Compressive Video Acquisition",  
 Sensors 2023, 23, no. 17: 7535.
