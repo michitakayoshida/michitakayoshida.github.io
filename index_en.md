@@ -104,7 +104,24 @@ Proceedings of the European Conference on Computer Vision (ECCV2018), Munich, Ge
 [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Michitaka_Yoshida_Joint_optimization_for_ECCV_2018_paper.pdf) [bibtex](/bib/eccv2018.bib)
 
 ## Domestic Conferences
--[Peer-reviewed, Oral]
+
+- [Non-peer-reviewed, Oral]
+吉田道隆, ファム ゴック アン, リュウ ドゥシン, 安富啓太, 川人祥二, 香川景一郎, 長原一,
+"超高時間分解コンピュテーショナルCMOSイメージセンサを用いた深層学習による疑似dToF",
+映情学技報, vol. 47, no. 27, IST2023-37, pp. 9-12, 2023年9月.
+
+- [Non-peer-reviewed, Oral]
+吉田道隆, 長原一,
+"圧縮センシングによる動画像の高速撮像に関する研究",
+情報処理学会コンピュータビジョンとイメージメディア研究会(2023-CVIM-234), 名古屋, 2023年5月
+
+
+- [Non-peer-reviewed, Oral]
+加藤睦代, 岩崎昌子, 長原一, 吉田道隆, 末原大幹, 山田悟, 中島悠太, 武村紀子, 中野貴志,
+"機械学習を用いたスパースサンプリングによるデータ処理技術の基礎開発(II)",
+日本物理学会2022年秋季大会, 岡山 2022年9月
+
+- [Peer-reviewed, Oral]
 水野 良哉, 高橋 桂太, 坂井 康平, 都竹 千尋, 藤井 俊彰 , 吉田 道隆, 長原 一,
 "動的光線空間のシングルショット撮影",
 第24回画像の認識・理解シンポジウム(MIRU2021), 名古屋, 2021年7月
