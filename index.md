@@ -73,6 +73,16 @@ IEEE Transactions on Computational Imaging, Vol.6, pp.463-476, 2019
 [paper](https://doi.org/10.1109/TCI.2019.2956885) [bibtex](/bib/tci2019.bib)
 
 ## 国際会議
+- [ポスター発表・査読なし]  
+Michitaka Yoshida, Daisuke Hayashi, Lioe De Xing, Keita Yasutomi, Shoji Kawahito, Keiichiro Kagawa, Hajime Nagahara,
+"Single-shot efficient depth imaging based on time-compressive CMOS image sensor",  
+Proceedings of the International Conference on Computational Photography (ICCP2024), Lausanne, Switzerland, 2024.07
+
+- [口頭発表・査読なし]  
+Michitaka Yoshida, Daisuke Hayashi, Lioe De Xing, Keita Yasutomi, Shoji Kawahito, Keiichiro Kagawa, Hajime Nagahara,
+"Single-shot efficient transient imaging with optimal coded shutter based on time-compressive CMOS image sensor",  
+Computational Optical Sensing and Imaging (COSI), Toulouse, France, 2024.07
+
 - [ポスター発表・査読あり]  
 Ryoya Mizuno, Keita Takahashi, Michitaka Yoshida, Chihiro Tsutake, Toshiaki Fujii, Hajime Nagahara,
 "Acquiring a Dynamic Light Field Through a Single-Shot Coded Image",  
@@ -107,6 +117,16 @@ Proceedings of the European Conference on Computer Vision (ECCV2018), Munich, Ge
 [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Michitaka_Yoshida_Joint_optimization_for_ECCV_2018_paper.pdf) [bibtex](/bib/eccv2018.bib)
 
 ## 国内会議
+
+- [ポスター発表・査読なし]  
+吉田道隆, 林大輔, リュウドゥシン, 安富啓太, 川人祥二, 香川景一郎, 長原一,
+"超高時間分解コンピュテーショナルCMOSイメージセンサを用いたシングルショットTime of Flight Imaging",  
+第27回画像の認識・理解シンポジウム(MIRU2024), 熊本, 2024年8月
+
+- [デモンストレーション発表・査読なし]  
+林大輔, 吉田道隆, De Xing Lioe, 安富啓太, 川人祥二, 長原一, 香川景一郎,
+"電荷領域符号化露光ToF CMOSイメージセンサと深層学習モデルによるトランジェントイメージングと距離推定システム",  
+第27回画像の認識・理解シンポジウム(MIRU2024), 熊本, 2024年8月
 
 - [口頭発表・査読なし]  
 吉田道隆, ファム ゴック アン, リュウ ドゥシン, 安富啓太, 川人祥二, 香川景一郎, 長原一,
