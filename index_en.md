@@ -60,7 +60,7 @@ Sensors 2023, 23, no. 17: 7535.
 - [Peer-reviewed]  
 Sudhakar Kumawat, Tadashi Okawara, Michitaka Yoshida, Hajime Nagahara, Yasushi Yagi,  
 "Action Recognition From a Single Coded Image",
-IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022, doi: 10.1109/TPAMI.2022.3196350.  
+IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 45, no. 4, pp. 4109-4121, 1 April 2023, doi: 10.1109/TPAMI.2022.3196350.  
 [paper](https://ieeexplore.ieee.org/document/9850412) [bibtex](/bib/pami2022.bib)
 
 - [Peer-reviewed]  
