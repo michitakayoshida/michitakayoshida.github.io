@@ -52,7 +52,7 @@ ITE Transactions on Media Technology and Applications 2024, Vol.12, Issue 1, pp.
 [paper](https://doi.org/10.3169/mta.12.22) [bibtex](/bib/mta_12_22_en.bib)
 
 - [Peer-reviewed]  
-Yoshida, Michitaka, Akihiko Torii, Masatoshi Okutomi, Rin-ichiro Taniguchi, Hajime Nagahara, and Yasushi Yagi,  
+Yoshida Michitaka, Akihiko Torii, Masatoshi Okutomi, Rin-ichiro Taniguchi, Hajime Nagahara, and Yasushi Yagi,  
 "Deep Sensing for Compressive Video Acquisition",  
 Sensors 2023, 23, no. 17: 7535.
 [paper](https://doi.org/10.3390/s23177535) [bibtex](/bib/sensors-v23-i17_20230831.bib)
