@@ -198,7 +198,7 @@ Proceedings of the European Conference on Computer Vision (ECCV2018), Munich, Ge
 - [Patent]  
 特許第7272625号，「動画像処理方法及び動画像処理装置」,長原 一, 大河原 忠, 吉田 道隆
 [J-GLOBAL](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202303003995188770)
-
+[J-PlatPat](https://www.j-platpat.inpit.go.jp/p0200)
 ---
 
 # Research
