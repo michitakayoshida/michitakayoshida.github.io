@@ -113,7 +113,7 @@ Proceedings of the 4th International Workshop on Image Sensors and Imaging Syste
 - [ポスター発表・査読あり]  
 Yoshida Michitaka, Torii Akihiko, Okutomi Masatoshi, Endo Kenta, Sugiyama Yukinobu, Taniguchi Rin-ichiro, Nagahara Hajime,  
 "Joint optimization for compressive video sensing and reconstruction under hardware constraints",  
-Proceedings of the European Conference on Computer Vision (ECCV2018), Munich, Germany, pp.634-649, 2018.09  
+Proceedings of the European Conference on Computer Vision (ECCV2018), Munich, Germany, pp.649-663, 2018.09  
 [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Michitaka_Yoshida_Joint_optimization_for_ECCV_2018_paper.pdf) [bibtex](/bib/eccv2018.bib)
 
 ## 国内会議
@@ -198,8 +198,10 @@ Proceedings of the European Conference on Computer Vision (ECCV2018), Munich, Ge
 [FIT 2019](https://www.ipsj.or.jp/event/fit/fit2019/FIT2019program_web/data/html/event/eventTCS3.html)
 
 - [特許]  
-特許第7272625号，「動画像処理方法及び動画像処理装置」,長原 一, 大河原 忠, 吉田 道隆
-[J-GLOBAL](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202303003995188770)
+特許第7272625号，「動画像処理方法及び動画像処理装置」,長原 一, 大河原 忠, 吉田 道隆,
+[J-GLOBAL](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202303003995188770), 
+[J-PlatPat](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7272625/15/ja)
+
 ---
 
 # 研究
