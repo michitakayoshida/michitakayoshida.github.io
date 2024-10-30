@@ -70,6 +70,11 @@ IEEE Transactions on Computational Imaging, Vol.6, pp.463-476, 2019
 [paper](https://ieeexplore.ieee.org/document/8918110) [bibtex](/bib/tci2019.bib)
 
 ## International Conferences
+- [Peer-reviewed, Poster]
+Michitaka Yoshida, Daisuke Hayashi, Lioe De Xing, Keita Yasutomi, Shoji Kawahito, Keiichiro Kagawa, Hajime Nagahara,
+"Single-shot efficient depth imaging based on time-compressive CMOS image sensor",  
+Proceedings of the IEEE Sensors, Kobe, Japan, 2024.10
+
 - [Non-peer-reviewed, Poster]  
 Michitaka Yoshida, Daisuke Hayashi, Lioe De Xing, Keita Yasutomi, Shoji Kawahito, Keiichiro Kagawa, Hajime Nagahara,
 "Single-shot efficient depth imaging based on time-compressive CMOS image sensor",  
@@ -189,15 +194,21 @@ Proceedings of the European Conference on Computer Vision (ECCV2018), Munich, Ge
 
 ## Others
 - [Invited talk]  
+"Deep compressive sensing with coded image sensor",
+Michitaka Yoshida, Daisuke Hayashi, Lioe De Xing, Keita Yasutomi, Shoji Kawahito, Keiichiro Kagawa, Hajime Nagahara,
+6th International Workshop on Image Sensors and Imaging Systems (IWISS2024),
+Tokyo, Japan, 2024.11
+
+- [Invited talk]  
 Forum on Information Technology (FIT2019) :  
 Yoshida Michitaka, Torii Akihiko, Okutomi Masatoshi, Endo Kenta, Sugiyama Yukinobu, Taniguchi Rin-ichiro, Nagahara Hajime,  
 "Joint optimization for compressive video sensing and reconstruction under hardware constraints",  
-Proceedings of the European Conference on Computer Vision (ECCV2018), Munich, Germany  
-[FIT 2019](https://www.ipsj.or.jp/event/fit/fit2019/FIT2019program_web/data/html/event/eventTCS3.html)
+[FIT 2019](https://www.ipsj.or.jp/event/fit/fit2019/FIT2019program_web/data/html/event/eventTCS3.html),
+Okayama, Japan, 2019.09
 
 - [Patent]  
 特許第7272625号，「動画像処理方法及び動画像処理装置」,長原 一, 大河原 忠, 吉田 道隆
-[J-GLOBAL](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202303003995188770), 
+[J-GLOBAL](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202303003995188770),
 [J-PlatPat](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7272625/15/ja)
 
 

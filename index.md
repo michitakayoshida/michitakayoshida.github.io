@@ -73,6 +73,11 @@ IEEE Transactions on Computational Imaging, Vol.6, pp.463-476, 2019
 [paper](https://doi.org/10.1109/TCI.2019.2956885) [bibtex](/bib/tci2019.bib)
 
 ## 国際会議
+- [ポスター発表・査読あり]  
+Michitaka Yoshida, Daisuke Hayashi, Lioe De Xing, Keita Yasutomi, Shoji Kawahito, Keiichiro Kagawa, Hajime Nagahara,
+"Single-shot efficient depth imaging based on time-compressive CMOS image sensor",  
+Proceedings of the IEEE Sensors, Kobe, Japan, 2024.10
+
 - [ポスター発表・査読なし]  
 Michitaka Yoshida, Daisuke Hayashi, Lioe De Xing, Keita Yasutomi, Shoji Kawahito, Keiichiro Kagawa, Hajime Nagahara,
 "Single-shot efficient depth imaging based on time-compressive CMOS image sensor",  
@@ -192,14 +197,21 @@ Proceedings of the European Conference on Computer Vision (ECCV2018), Munich, Ge
 
 
 ## その他
+- [招待講演]   
+  "Deep compressive sensing with coded image sensor",
+  Michitaka Yoshida, Daisuke Hayashi, Lioe De Xing, Keita Yasutomi, Shoji Kawahito, Keiichiro Kagawa, Hajime Nagahara,
+  6th International Workshop on Image Sensors and Imaging Systems (IWISS2024),
+  Tokyo, Japan, 2024.11
+
 - [招待講演]  
 第18回情報科学技術フォーラム トップコンファレンスセッション :  
 "Joint optimization for compressive video sensing and reconstruction under hardware constraints",  
-[FIT 2019](https://www.ipsj.or.jp/event/fit/fit2019/FIT2019program_web/data/html/event/eventTCS3.html)
+[FIT 2019](https://www.ipsj.or.jp/event/fit/fit2019/FIT2019program_web/data/html/event/eventTCS3.html),
+岡山, 2019年9月
 
 - [特許]  
 特許第7272625号，「動画像処理方法及び動画像処理装置」,長原 一, 大河原 忠, 吉田 道隆,
-[J-GLOBAL](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202303003995188770), 
+[J-GLOBAL](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202303003995188770),
 [J-PlatPat](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7272625/15/ja)
 
 ---
