@@ -198,6 +198,13 @@ Proceedings of the European Conference on Computer Vision (ECCV2018), Munich, Ge
 
 ## その他
 - [招待講演]   
+  "Pseudo-direct LiDAR by deep-learning-assisted high-speed multi-tap charge modulators",
+  Keiichiro Kagawa, Keita Yasutomi, Michitaka Yoshida, Daisuke Hayashi, Lioe De Xing, Shoji Kawahito,  Hajime Nagahara,
+  70th International Electron Devices Meeting (IEDM2024),
+  San Francisco, U.S.A, 2024.12
+  [IEDM2024](https://iedm24.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=322)
+
+- [招待講演]   
   "Deep compressive sensing with coded image sensor",
   Michitaka Yoshida, Daisuke Hayashi, Lioe De Xing, Keita Yasutomi, Shoji Kawahito, Keiichiro Kagawa, Hajime Nagahara,
   6th International Workshop on Image Sensors and Imaging Systems (IWISS2024),
