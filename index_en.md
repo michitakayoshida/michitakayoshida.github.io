@@ -70,6 +70,11 @@ IEEE Transactions on Computational Imaging, Vol.6, pp.463-476, 2019
 [paper](https://ieeexplore.ieee.org/document/8918110) [bibtex](/bib/tci2019.bib)
 
 ## International Conferences
+- [Non-peer-reviewed, Oral]  
+Daisuke Hayashi, Michitaka Yoshida, Lioe De Xing, Keita Yasutomi, Shoji Kawahito, Hajime Nagahara, Keiichiro Kagawa,
+"Flash LiDAR system using charge-domain time-compressive ToF CMOS image sensor and deep learning",
+Photonics West, California, U.S.A, 2025.01
+
 - [Peer-reviewed, Poster]
 Michitaka Yoshida, Daisuke Hayashi, Lioe De Xing, Keita Yasutomi, Shoji Kawahito, Keiichiro Kagawa, Hajime Nagahara,
 "Single-shot efficient depth imaging based on time-compressive CMOS image sensor",  
@@ -113,7 +118,7 @@ Michitaka Yoshida, Akihiko Torii, Masatoshi Okutomi, Kenta Endo, Yukinobu Sugiya
 "Joint optimization for compressive video sensing and reconstruction under hardware constraints",  
 Proceedings of the 4th International Workshop on Image Sensors and Imaging Systems (IWISS2018), Tokyo, Japan, 2018.11
 
-- [Peer-reviewed, Poster]  
+- [Peer-reviewed, Postser]  
 Yoshida Michitaka, Torii Akihiko, Okutomi Masatoshi, Endo Kenta, Sugiyama Yukinobu, Taniguchi Rin-ichiro, Nagahara Hajime,  
 "Joint optimization for compressive video sensing and reconstruction under hardware constraints",  
 Proceedings of the European Conference on Computer Vision (ECCV2018), Munich, Germany, pp.649-663, 2018.09  
@@ -129,6 +134,11 @@ Proceedings of the European Conference on Computer Vision (ECCV2018), Munich, Ge
 林大輔, 吉田道隆, De Xing Lioe, 安富啓太, 川人祥二, 長原一, 香川景一郎,
 "電荷領域符号化露光ToF CMOSイメージセンサと深層学習モデルによるトランジェントイメージングと距離推定システム",  
 第27回画像の認識・理解シンポジウム(MIRU2024), 熊本, 2024年8月
+
+- [Non-peer-reviewed, Poster]    
+林大輔, 吉田道隆, 安富啓太, 川人祥二, 長原一, 香川景一郎,
+"電荷領域時間圧縮ToF方式に向けた距離推定深層ニューラルネットワークの軽量化の検討",
+映情学技報, vol. 48, no. 21, IST2024-32, pp. 1-4, 2023年6月.
 
 - [Non-peer-reviewed, Oral]
 吉田道隆, ファム ゴック アン, リュウ ドゥシン, 安富啓太, 川人祥二, 香川景一郎, 長原一,
