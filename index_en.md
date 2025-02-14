@@ -229,15 +229,10 @@ Okayama, Japan, 2019.09
 [J-PlatPat](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7272625/15/ja)
 
 - [Social Activities]
-
 Reviewer for conferences
-
 Computer Vision and Pattern Recognition (CVPR) Program Committee (Reviewer) (2022, 2024)
-
 International Conference on Computer Vision (ICCV) Program Committee (Reviewer) (2021)
-
 AAAI (The Association for the Advancement of Artificial Intelligence) Conference on Artificial Intelligence Program Committee (Reviewer) (2025)
-
 British Machine Vision Conference (BMVC) Program Committee (Reviewer) (2021)
 
 # Research
