@@ -231,7 +231,7 @@ Proceedings of the European Conference on Computer Vision (ECCV2018), Munich, Ge
 [J-GLOBAL](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202303003995188770),
 [J-PlatPat](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7272625/15/ja)
 
-- [学会活動]
+
 <dl>
  <dt> 国際会議 査読</dt>
  <dd> Computer Vision and Pattern Recognition (CVPR)のProgram Committee (Reviewer) (2022, 2024) </dd>

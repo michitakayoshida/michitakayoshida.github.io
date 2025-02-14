@@ -228,12 +228,13 @@ Okayama, Japan, 2019.09
 [J-GLOBAL](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202303003995188770),
 [J-PlatPat](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7272625/15/ja)
 
-- [Social Activities]
-* Reviewer for conferences
-+ Computer Vision and Pattern Recognition (CVPR) Program Committee (Reviewer) (2022, 2024)
-+ International Conference on Computer Vision (ICCV) Program Committee (Reviewer) (2021)
-+ AAAI (The Association for the Advancement of Artificial Intelligence) Conference on Artificial Intelligence Program Committee (Reviewer) (2025)
-+ British Machine Vision Conference (BMVC) Program Committee (Reviewer) (2021)
+<dl>
+<dt> Reviewer for conferences </dt>
+<dd> Computer Vision and Pattern Recognition (CVPR) Program Committee (Reviewer) (2022, 2024) </dd>
+<dd> International Conference on Computer Vision (ICCV) Program Committee (Reviewer) (2021) </dd>
+<dd> AAAI (The Association for the Advancement of Artificial Intelligence) Conference on Artificial Intelligence Program Committee (Reviewer) (2025) </dd>
+<dd> British Machine Vision Conference (BMVC) Program Committee (Reviewer) (2021) </dd>
+</dl>
 
 # Research
 ## Compressive video sensing
