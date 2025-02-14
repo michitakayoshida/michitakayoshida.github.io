@@ -231,6 +231,22 @@ Proceedings of the European Conference on Computer Vision (ECCV2018), Munich, Ge
 [J-GLOBAL](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202303003995188770),
 [J-PlatPat](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7272625/15/ja)
 
+-[学会活動]
+国際会議 査読
+Computer Vision and Pattern Recognition (CVPR)のProgram Committee (Reviewer) (2022, 2024)
+[]
+(
+  Computer Vision and Pattern Recognition (CVPR)のProgram Committee (Reviewer) (2022, 2024, 2025)
+  )
+International Conference on Computer Vision (ICCV) のProgram Committee (Reviewer) (2021)
+[]
+(
+  International Conference on Computer Vision (ICCV) のProgram Committee (Reviewer) (2021, 2025)
+  )
+Annual AAAI (The Association for the Advancement of Artificial Intelligence) Conference on Artificial Intelligence の Program Committee (Reviewer) (2025)
+British Machine Vision Conference (BMVC)のProgram Committee (Reviewer) (2021)
+
+
 ---
 
 # 研究
