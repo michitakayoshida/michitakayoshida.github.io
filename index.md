@@ -232,16 +232,16 @@ Proceedings of the European Conference on Computer Vision (ECCV2018), Munich, Ge
 
 <dl>
  <dt> 国際会議 査読</dt>
- <dd> Computer Vision and Pattern Recognition (CVPR)のProgram Committee (Reviewer) (2022, 2024) </dd>
+ <dd> Computer Vision and Pattern Recognition (CVPR) Program Committee (Reviewer) (2022, 2024) </dd>
 <!---
   Computer Vision and Pattern Recognition (CVPR)のProgram Committee (Reviewer) (2022, 2024, 2025)
   -->
- <dd> International Conference on Computer Vision (ICCV) のProgram Committee (Reviewer) (2021) </dd>
+ <dd> International Conference on Computer Vision (ICCV) Program Committee (Reviewer) (2021) </dd>
 <!---
   International Conference on Computer Vision (ICCV) のProgram Committee (Reviewer) (2021, 2025)
   -->
- <dd> Annual AAAI (The Association for the Advancement of Artificial Intelligence) Conference on Artificial Intelligence の Program Committee (Reviewer) (2025) </dd>
- <dd> British Machine Vision Conference (BMVC)のProgram Committee (Reviewer) (2021) </dd>
+ <dd> Annual AAAI (The Association for the Advancement of Artificial Intelligence) Conference on Artificial Intelligence Program Committee (Reviewer) (2025) </dd>
+ <dd> British Machine Vision Conference (BMVC) Program Committee (Reviewer) (2021) </dd>
 </dl>
 
 ---
